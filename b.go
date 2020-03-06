@@ -1,7 +1,6 @@
 package b
 
 import (
-	"fmt"
 	"github.com/ticccccc/a"
 )
 
